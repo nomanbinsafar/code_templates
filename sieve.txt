@@ -12,3 +12,4 @@ void SieveOfEratosthenes(ll n)
         }
     }
 }
+//call sieve function with 1e7 
